@@ -20,20 +20,6 @@ The rules are simple:
 
 ---
 
-## 🎨 Screenshots
-
-Below are some screenshots of the game in action:
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/TraptiSingh7300/Rock-Scissor-Paper/main/assets/game_screen.png" width="400" alt="Game Screen"/>
-  <br>
-  <img src="https://raw.githubusercontent.com/TraptiSingh7300/Rock-Scissor-Paper/main/assets/win_screen.png" width="400" alt="Win Screen"/>
-</p>
-
-*If you do not see images above, make sure the assets exist in the `assets/` folder or update the paths in this README.*
-
----
-
 ## 🚀 Features
 
 - Play against the computer
