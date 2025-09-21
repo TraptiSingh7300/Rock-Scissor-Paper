@@ -1,7 +1,7 @@
 # Rock Scissor Paper
 
 ## 🚀 Live Demo
-[Click here to play the game!](https://your-demo-link.com)
+[Click here to play the game!](https://traptisingh7300.github.io/Rock-Scissor-Paper/)
 
 Welcome to the **Rock Scissor Paper** repository!  
 This project is a classic implementation of the Rock-Paper-Scissors game, where you can play against the computer and enjoy simple, interactive gameplay.
