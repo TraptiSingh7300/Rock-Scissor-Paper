@@ -1,5 +1,8 @@
 # Rock Scissor Paper
 
+## 🚀 Live Demo
+[Click here to play the game!](https://your-demo-link.com)
+
 Welcome to the **Rock Scissor Paper** repository!  
 This project is a classic implementation of the Rock-Paper-Scissors game, where you can play against the computer and enjoy simple, interactive gameplay.
 
@@ -9,7 +12,7 @@ This project is a classic implementation of the Rock-Paper-Scissors game, where 
 
 Rock-Paper-Scissors is a popular hand game played between two people, where each player simultaneously forms one of three shapes:
 
-- **Rock** 🪨
+- **Rock** 🥌
 - **Paper** 📄
 - **Scissors** ✂️
 
@@ -37,8 +40,6 @@ The rules are simple:
    ```
 2. **Open the game**
    - If it’s a web game: Open `index.html` in your browser
-   - If it’s a Python game: Run `python main.py`
-   - If it’s another language, check the respective instructions
 
 ---
 
